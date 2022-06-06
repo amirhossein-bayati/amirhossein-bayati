@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=amirhossein-bayati&label=Profile%20views&color=0e75b6&style=plastic" alt="amirhossein-bayati" /> 
 </p>
--->
+
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
-
+-->
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 <br>
@@ -44,8 +44,9 @@ Hello Everyone👋, My name is Amirhossein. I'm SoftWare Engineering Student👨
 
 <br><br>
 
-
+<!--
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+-->
 <p align="center">
 	<a href="mailto:amirsmvb@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/amirhossein-bayati"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
