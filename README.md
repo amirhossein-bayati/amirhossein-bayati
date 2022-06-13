@@ -40,7 +40,10 @@ Here are some ideas to get you started:
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 -->
 <br>
-Hello Everyone👋, My name is Amirhossein. I'm SoftWare Engineering Student👨‍💻. I’m interested in Python/Django. Presently, I'm developing Soft wares & apps with Python & Django📱. You can follow me on the socials, below 👇.
+Hello Everyone👋<br/>
+My name is Amirhossein. I'm SoftWare Engineering Student👨‍💻. <br/>
+I’m interested in Python/Django. Presently, I'm developing Soft wares & apps with Python & Django📱. <br/>
+You can follow me on the socials, below 👇.
 
 <br><br>
 
