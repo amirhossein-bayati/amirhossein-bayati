@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 -->
 <br>
 Hello Everyone👋<br/>
-My name is Amirhossein. I'm SoftWare Engineering Student👨‍💻. <br/>
+My name is Amirhossein. I'm A SoftWare Engineering Student👨‍💻. <br/>
 I’m interested in Python/Django. Presently, I'm developing apps with Python & Django📱. <br/>
 You can follow me on the socials, below 👇.
 
