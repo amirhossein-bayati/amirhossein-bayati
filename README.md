@@ -41,8 +41,15 @@ Here are some ideas to get you started:
 -->
 <br>
 Hello Everyone👋<br/>
-My name is Amirhossein. I'm A SoftWare Engineering Student👨‍💻. <br/>
-I’m interested in Python/Django. Presently, I'm developing apps with Python & Django📱. <br/>
+My name is Amirhossein. <br/>
+I'm A SoftWare Engineer with +4 years experience in building, maintaining, and
+optimizing scalable web applications. Proficient in .NET and familiar with
+Django ecosystem, with a strong focus on clean architecture, software
+design principles, and modern development practices. Experienced in
+debugging complex systems, enhancing performance, and collaborating
+effectively within agile, cross-functional teams. Committed to continuous
+learning and staying up to date with emerging technologies and
+architectural patterns. <br/>
 You can follow me on the socials, below 👇.
 
 <br><br>
